@@ -105,6 +105,7 @@ getgenv().TARGET_BRAINROTS = {
     ["La Secret Combinasion"] = true,
     ["Los Amigos"] = true,
     ["Los Combinasionas"] = true,
-    ["Lovin Rose"] = true
+    ["Lovin Rose"] = true,
+    ["Rhino Toasterino"] = true
 }
 loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/fbcd1d25889a843297107dea3642044d.lua"))()
